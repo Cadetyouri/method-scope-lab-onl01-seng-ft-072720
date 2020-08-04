@@ -116,4 +116,3 @@ be met with a `NameError`. Our program, outside of the
 `#rescue_princess_peach`method, just doesn't know what it is.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/method-scope-lab'>Method Scope Lab</a> on Learn.co and start learning to code for free.</p>
-
